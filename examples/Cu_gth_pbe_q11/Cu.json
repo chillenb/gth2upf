@@ -1,6 +1,6 @@
 {
-    "cp2k_path": "/cvmfs/hpcsw.umd.edu/spack-software/2023.11.20/linux-rhel8-zen2/gcc-11.3.0/cp2k-2023.2-yoowsr2gvjb5hzyalmc7l4xkaubfdf2y/bin/cp2k.psmp",
-    "gth_path": "/home/jy246/scratch/program/pyscf/pyscf/pbc/gto/pseudo/gth-pbe.dat",
+    "cp2k_path": "/apps/software/2022b/software/CP2K/2023.1-foss-2022b/bin/cp2k.psmp",
+    "gth_path": "/apps/software/2022b/software/CP2K/2023.1-foss-2022b/data/GTH_POTENTIALS",
     "element": "Cu",
     "xc": "PBE",
     "valence": 11,
